@@ -100,8 +100,8 @@ body {
 }
 
 .weather-box .weather-desc {
-  font-size: 25px;
-  font-weight: 600;
+  font-size: 20px;
+  font-weight: 550;
   text-transform: capitalize;
   margin-block: 10px;
 }
